@@ -65,7 +65,7 @@
 
 - **[user can add todo task]**
 - **[user can edit todo task]**
-- **[key_feature_3]**
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
